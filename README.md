@@ -1,9 +1,6 @@
-# my-first-repo
+## What I Learning Today
 
-# my-first-repository
-A beginner Github project
-created during the workshop.
+I am currently attending a github workship.
+Today i learned about: - versiom control - creating a repository  - The edit-commit-push cycle
 
-## About me 
-My name is **kisandu**
-I am learmimg Github.
+my github profile: https://github.com/kisandu09
